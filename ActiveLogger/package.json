@@ -1,0 +1,9 @@
+{
+    "name": "tekunoextension2turbo", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "tokuno", 
+    "version": "2.0", 
+    "fullName": "tekunoExtension2turbo", 
+    "id": "jid1-vQj6uZaWAevulA", 
+    "description": "activeなページを監視してローカルに書き出すアドオンだよ"
+}
