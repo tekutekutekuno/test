@@ -1,0 +1,9 @@
+{
+    "name": "tekunoextension", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "tokuno", 
+    "version": "1.5", 
+    "fullName": "tekunoExtension", 
+    "id": "jid1-gL5mGK7dqRn85w", 
+    "description": "アクセスしたWebページのURLと日時（アクセスした日時と別ページに遷移or更新した日時）などをエクステンションフォルダ直下に保存するアドオン"
+}
